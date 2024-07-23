@@ -6,3 +6,7 @@ This repository is a personal record of the computer science books and papers I 
 
 ### June 2024
 - **Deep Reinforcement Learning Hands-On** by Maxim Lapan
+
+Sutton and Barto
+
+Mastering Diverse Domains through World Models, Hafner et al
