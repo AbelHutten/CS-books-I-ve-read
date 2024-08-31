@@ -12,6 +12,4 @@ This repository is a personal record of the computer science (with a focus on RL
 
 ### August 2024
 - **Deep Reinforcement Learning** by Aske Plaat  
-  - Publisher: Springer Nature Singapore (2022)  
-  - [DOI: 10.1007/978-981-19-0638-1](http://dx.doi.org/10.1007/978-981-19-0638-1)  
-  - ISBN: 9789811906381
+  - https://arxiv.org/abs/2201.02135
